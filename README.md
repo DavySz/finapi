@@ -26,3 +26,23 @@
 - [x] Não deve ser possível fazer saque quando o saldo for insuficiente
 - [x] Não deve ser possível excluir uma conta não existente
 - [x] Não deve ser possível retornar o balance de uma conta não existente
+
+--
+
+
+## Instalando dependencias
+
+```bash
+$ yarn
+
+```
+
+## A aplicação estará ativa em: http://localhost:3030/
+
+```bash
+$ yarn dev
+
+```
+
+
+
